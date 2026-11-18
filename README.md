@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/Achintya-Chandwani/LeetCode-Solutions/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Achintya-Chandwani/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
 | ------- |
